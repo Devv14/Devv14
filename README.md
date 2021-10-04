@@ -9,7 +9,7 @@ I'm a **Competitive Programmer**, who writes codes in **JAVA** 💻.<br>
 I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
 
 - 🛠 I’m currently focusing on **Data Structures and Algorithms** to get better at **Problem Solving Skills**.
-- 💻 I am also learning **Frontend Web Development**.
+- 💻 I am also learning **Backend Web Development**.
 - 💬I’m looking forward to contribute to **Open Source Projects**.
 
 <br>
